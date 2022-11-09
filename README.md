@@ -1,4 +1,4 @@
-# Feed The Dawgs (Dubhacks 2022)
+# [Feed The Dawgs (Dubhacks 2022)](https://notifyftd.wixsite.com/feedthedawgs)
 Eat and greet. Connect with others. Foster meaningful relationships.
 
 After the golbal pandemic and shutdown of society caused by Covid-19, human connectivity has suffered and we hope to fix that at UW. Building connections is an essential part of everyone's well-being and we believe meeting new people over a good meal is one of the easiest ways to build community and foster friendships. We hope that through our web app, you can create valuable relationships and memories that will last a lifetime. With Feed The Dawgs, you can choose restaraunts on the Ave that you're craving and we'll match you up with others who have inputed similar restaraunts and times available. We hope that in the future we can expand to more locations, not just UW and other activities such as sports, movies, etc.
